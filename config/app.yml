@@ -1,0 +1,2 @@
+postgreSQL:
+  DNS: host=127.0.0.1 user=postgres password=7211 dbname=ginchat.db port=5432 sslmode=disable TimeZone=Asia/Taipei
